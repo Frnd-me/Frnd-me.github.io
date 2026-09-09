@@ -8,6 +8,9 @@ My publications are also listed on <a href="https://orcid.org/0009-0007-3791-937
 
 ### 2026
 
+- **Towards High-Level Declarative Infrastructure Description for the IoT-Edge-Cloud Continuum**  
+  M. Etheredge, J. A. Poveda, D. Gstir, S. Pedratscher, and T. Fahringer. In _2026 22nd International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT)_, pp. 177-184 (IEEE), 2026.
+
 - **Pulse: Multi-objective scheduling of service-based applications in multi-cluster cloud–edge–IoT infrastructures**  
   Marlon Etheredge, Juan Aznar Poveda, Stefan Pedratscher, Abolfazl Younesi, and Thomas Fahringer. _Journal of Network and Computer Applications_, 248, 104439 (Elsevier), 2026.
 
